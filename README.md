@@ -28,7 +28,7 @@ A continuación, se muestra una lista de los archivos que se deben revisar para 
     - **Evidencia ##: nombreEvidencia** Favor de revisar el archivo **Retroalimentacion/Estadistica/AnalisisReporte_Desempeno.ipynb**
 - *Reto*
   - *SEG0403B*
-    - **Evidencia ##: Privacidad y Seguridad de los Datos** Favor de revisar el archivo **Retroalimentacion/Reto/Analisis_ContextoNormatividad.pdf**
+    - **Evidencia 01: Privacidad y Seguridad de los Datos** Favor de revisar el archivo **Retroalimentacion/Reto/PrivacidadSeguridad_Datos.pdf**
 
 ## Cambios solicitados y respuestas
 
