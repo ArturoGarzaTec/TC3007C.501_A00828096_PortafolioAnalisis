@@ -23,6 +23,8 @@ A continuación, se muestra una lista de los archivos que se deben revisar para 
 - *Big Data*
   - *SMA0104C*
     - **Evidencia 01: Creación de usuario en Linux** Favor de revisar el archivo **Retroalimentacion/BigData/Evidencia01/CreacionUsuario_Linux.png**
+    - **Evidencia 02: Instalación de Spark en AWS** Favor de revisar los archivos:
+          - **Retroalimentacion/BigData/Evidencia02/Instruccion1.png**
 - *Estadística Avanzada*
   - *SMA0104C*
     - **Evidencia ##: nombreEvidencia** Favor de revisar el archivo **Retroalimentacion/Estadistica/AnalisisReporte_Desempeno.ipynb**
