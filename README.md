@@ -22,15 +22,15 @@ A continuación, se muestra una lista de los archivos que se deben revisar para 
 
 - *Big Data*
   - *SMA0104C*
-    - **Evidencia 01: Creación de usuario en Linux** Favor de revisar el archivo **Retroalimentacion/BigData/Evidencia01/CreacionUsuario_Linux.png**
+    - **Evidencia 01: Creación de usuario en Linux** Favor de revisar el archivo **Final/BigData/Evidencia01/CreacionUsuario_Linux.png**
     - **Evidencia 02: Instalación de Spark en AWS** Favor de revisar los archivos:
-      - **Retroalimentacion/BigData/Evidencia02/Instruccion1.png**
-      - **Retroalimentacion/BigData/Evidencia02/Instruccion2.png**
-      - **Retroalimentacion/BigData/Evidencia02/Instruccion3.png**
-      - **Retroalimentacion/BigData/Evidencia02/Instruccion4.png**
-      - **Retroalimentacion/BigData/Evidencia02/Instruccion5.png**
-      - **Retroalimentacion/BigData/Evidencia02/Instruccion6.png**
-      - **Retroalimentacion/BigData/Evidencia02/Instruccion7.png**
+      - **Final/BigData/Evidencia02/Instruccion1.png**
+      - **Final/BigData/Evidencia02/Instruccion2.png**
+      - **Final/BigData/Evidencia02/Instruccion3.png**
+      - **Final/BigData/Evidencia02/Instruccion4.png**
+      - **Final/BigData/Evidencia02/Instruccion5.png**
+      - **Final/BigData/Evidencia02/Instruccion6.png**
+      - **Final/BigData/Evidencia02/Instruccion7.png**
 - *Estadística Avanzada*
   - *SMA0104C*
     - **Evidencia ##: nombreEvidencia** Favor de revisar el archivo **Retroalimentacion/Estadistica/AnalisisReporte_Desempeno.ipynb**
@@ -44,4 +44,4 @@ A continuación, se incluye una lista de la ubicación de los problemas solucion
 
 - *Reto*
   - *SEG0403B*
-    - **Evidencia ##: Privacidad y Seguridad de los Datos** Favor de revisar el archivo **Retroalimentacion/Reto/ReporteCambios_Reto.pdf**
+    - **Evidencia ##: Privacidad y Seguridad de los Datos** Favor de revisar el archivo **Final/Reto/ReporteCambios_Reto.pdf**
