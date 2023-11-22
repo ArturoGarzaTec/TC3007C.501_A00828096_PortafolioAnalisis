@@ -42,12 +42,6 @@ A continuación, se muestra una lista de los archivos que se deben revisar para 
 
 A continuación, se incluye una lista de la ubicación de los problemas que plantearon los responsables de revisión durante la fase de comentarios.
 
-- *Big Data*
-  - *SMA0104C*
-    - **Evidencia ##: nombreEvidencia** Favor de revisar el archivo **Retroalimentacion/BigData/ReporteCambios_BigData.pdf**
-- *Estadística Avanzada*
-  - *SMA0104C*
-    - **Evidencia ##: nombreEvidencia** Favor de revisar el archivo **Retroalimentacion/Estadistica/ReporteCambios_Estadistica.pdf**
 - *Reto*
   - *SEG0403B*
     - **Evidencia ##: Privacidad y Seguridad de los Datos** Favor de revisar el archivo **Retroalimentacion/Reto/ReporteCambios_Reto.pdf**
