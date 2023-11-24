@@ -33,7 +33,9 @@ A continuación, se muestra una lista de los archivos que se deben revisar para 
       - **Final/BigData/Evidencia02/Instruccion7.png**
 - *Estadística Avanzada*
   - *SMA0104C*
-    - **Evidencia ##: nombreEvidencia** Favor de revisar el archivo **Retroalimentacion/Estadistica/AnalisisReporte_Desempeno.ipynb**
+    - **Actividad 01: La Normal Multivariada** Favor de revisar el archivo **Final/Estadistica/Actividad01/Normal_Multivariada.pdf**
+    - **Actividad 02: Componentes Principales** Favor de revisar el archivo **Final/Estadistica/Actividad02/AnalisisReporte_Desempeno.ipynb**
+    - **Actividad 03: Procesos Poisson** Favor de revisar el archivo **Final/Estadistica/Actividad03/AnalisisReporte_Desempeno.ipynb**
 - *Reto*
   - *SEG0403B*
     - **Evidencia 01: Privacidad y Seguridad de los Datos** Favor de revisar el archivo **Retroalimentacion/Reto/PrivacidadSeguridad_Datos.pdf**
