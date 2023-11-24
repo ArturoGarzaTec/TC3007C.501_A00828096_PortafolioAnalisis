@@ -34,8 +34,8 @@ A continuación, se muestra una lista de los archivos que se deben revisar para 
 - *Estadística Avanzada*
   - *SMA0104C*
     - **Actividad 01: La Normal Multivariada** Favor de revisar el archivo **Final/Estadistica/Actividad01/Normal_Multivariada.pdf**
-    - **Actividad 02: Componentes Principales** Favor de revisar el archivo **Final/Estadistica/Actividad02/AnalisisReporte_Desempeno.ipynb**
-    - **Actividad 03: Procesos Poisson** Favor de revisar el archivo **Final/Estadistica/Actividad03/AnalisisReporte_Desempeno.ipynb**
+    - **Actividad 02: Componentes Principales** Favor de revisar el archivo **Final/Estadistica/Actividad02/Componentes_Principales.pdf**
+    - **Actividad 03: Procesos Poisson** Favor de revisar el archivo **Final/Estadistica/Actividad03/Procesos_Poisson.pdf**
 - *Reto*
   - *SEG0403B*
     - **Evidencia 01: Privacidad y Seguridad de los Datos** Favor de revisar el archivo **Retroalimentacion/Reto/PrivacidadSeguridad_Datos.pdf**
@@ -46,4 +46,4 @@ A continuación, se incluye una lista de la ubicación de los problemas solucion
 
 - *Reto*
   - *SEG0403B*
-    - **Evidencia ##: Privacidad y Seguridad de los Datos** Favor de revisar el archivo **Final/Reto/ReporteCambios_Reto.pdf**
+    - **Evidencia 01: Privacidad y Seguridad de los Datos** Favor de revisar el archivo **Final/Reto/ReporteCambios_Reto.pdf**
