@@ -39,6 +39,8 @@ A continuación, se muestra una lista de los archivos que se deben revisar para 
 - *Reto*
   - *SEG0403B*
     - **Evidencia 01: Privacidad y Seguridad de los Datos** Favor de revisar el archivo **Final/Reto/PrivacidadSeguridad_Datos.pdf**
+- *Cloud Computing*
+  - **Evidencia 01: Diseño de Arquitectura en la Nube** Favor de revisar el archivo **Final/CloudComputing/Evidencia01/DisenoCloud_Equipo7.pdf**
 
 ## Cambios solicitados y respuestas
 
