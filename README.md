@@ -38,7 +38,7 @@ A continuación, se muestra una lista de los archivos que se deben revisar para 
     - **Actividad 03: Procesos Poisson** Favor de revisar el archivo **Final/Estadistica/Actividad03/Procesos_Poisson.pdf**
 - *Reto*
   - *SEG0403B*
-    - **Evidencia 01: Privacidad y Seguridad de los Datos** Favor de revisar el archivo **Retroalimentacion/Reto/PrivacidadSeguridad_Datos.pdf**
+    - **Evidencia 01: Privacidad y Seguridad de los Datos** Favor de revisar el archivo **Final/Reto/PrivacidadSeguridad_Datos.pdf**
 
 ## Cambios solicitados y respuestas
 
