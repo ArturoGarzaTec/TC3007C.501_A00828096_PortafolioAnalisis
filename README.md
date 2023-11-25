@@ -38,7 +38,7 @@ A continuación, se muestra una lista de los archivos que se deben revisar para 
     - **Actividad 03: Procesos Poisson** Favor de revisar el archivo **Final/Estadistica/Actividad03/Procesos_Poisson.pdf**
 - *Reto*
   - *SEG0403B*
-    - **Evidencia 01: Privacidad y Seguridad de los Datos** Favor de revisar el archivo **Final/Reto/PrivacidadSeguridad_Datos.pdf**
+    - **Evidencia 01: Privacidad y Seguridad de los Datos** Favor de revisar el archivo **Final/Reto/Evidencia01/PrivacidadSeguridad_Datos.pdf**
 - *Cloud Computing*
   - **Evidencia 01: Diseño de Arquitectura en la Nube** Favor de revisar el archivo **Final/CloudComputing/Evidencia01/DisenoCloud_Equipo7.pdf**
 
@@ -48,4 +48,4 @@ A continuación, se incluye una lista de la ubicación de los problemas solucion
 
 - *Reto*
   - *SEG0403B*
-    - **Evidencia 01: Privacidad y Seguridad de los Datos** Favor de revisar el archivo **Final/Reto/ReporteCambios_Reto.pdf**
+    - **Evidencia 01: Privacidad y Seguridad de los Datos** Favor de revisar el archivo **Final/Reto/ReporteCambios_PrivacidadSeguridadDatos.pdf**
