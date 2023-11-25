@@ -48,4 +48,4 @@ A continuación, se incluye una lista de la ubicación de los problemas solucion
 
 - *Reto*
   - *SEG0403B*
-    - **Evidencia 01: Privacidad y Seguridad de los Datos** Favor de revisar el archivo **Final/Reto/ReporteCambios_PrivacidadSeguridadDatos.pdf**
+    - **Evidencia 01: Privacidad y Seguridad de los Datos** Favor de revisar el archivo **Final/Reto/Evidencia01/ReporteCambios_PrivacidadSeguridadDatos.pdf**
